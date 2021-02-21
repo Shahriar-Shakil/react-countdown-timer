@@ -42,7 +42,7 @@ function App() {
       clearInterval(interval.current);
     };
   });
-  console.log(timerHours);
+
   return (
     <section className="timer-container">
       <section className="timer">
